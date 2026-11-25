@@ -1,0 +1,13 @@
+{
+  "name": "json-formatter",
+  "version": "1.0.0",
+  "description": "Take a json file from CLI end stamp in terminal",
+  "license": "MIT",
+  "author": "Vlad Costin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
